@@ -1,4 +1,12 @@
 ## Learing Git from VSCODE
 - Hi! Everyone I am testing out git branches.
 
-  checkout my 1st pull request☝️
+## Checkout my 1st pull request☝️
+- Google this : how to merge a branch into main
+- checked this (but not relevant) : https://phoenixnap.com/kb/git-merge-branch-into-master
+- figured out on my own refer in the assets notes for clear understanding.
+
+
+- Google this : how to add images in md
+- ![alt text](relative path of image)
+- ![Notes](assets/notes.jpg)
