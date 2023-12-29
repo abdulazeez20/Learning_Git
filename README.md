@@ -10,4 +10,5 @@
 #### Google this : how to add images in md
 - link : https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
 - ![alt text](relative path of image)
-- ![Notes](assets/notes.jpg)
+
+![Notes](assets/notes.jpg)
