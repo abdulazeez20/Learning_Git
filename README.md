@@ -1,5 +1,5 @@
 ## Learing Git from VSCODE
-- Hi! Everyone I am testing out git branches.
+- Hi! Everyone I am @abdulazeez20 testing out git branches.
 
 ### Checkout my 1st pull request☝️
 #### Google this : how to merge a branch into main
